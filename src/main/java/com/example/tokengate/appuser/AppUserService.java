@@ -1,7 +1,7 @@
-package com.example.demo.appuser;
+package com.example.tokengate.appuser;
 
-import com.example.demo.registration.token.ConfirmationToken;
-import com.example.demo.registration.token.ConfirmationTokenService;
+import com.example.tokengate.registration.token.ConfirmationToken;
+import com.example.tokengate.registration.token.ConfirmationTokenService;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

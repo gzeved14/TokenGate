@@ -1,4 +1,4 @@
-package com.example.demo.registration;
+package com.example.tokengate.registration;
 
 import org.springframework.stereotype.Service;
 import java.util.function.Predicate;

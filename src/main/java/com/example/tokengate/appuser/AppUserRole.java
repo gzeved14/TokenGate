@@ -1,4 +1,4 @@
-package com.example.demo.appuser;
+package com.example.tokengate.appuser;
 
 public enum AppUserRole {
     USER,

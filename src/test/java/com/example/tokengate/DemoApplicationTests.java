@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.tokengate;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

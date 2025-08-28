@@ -1,4 +1,4 @@
-package com.example.demo.email;
+package com.example.tokengate.email;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

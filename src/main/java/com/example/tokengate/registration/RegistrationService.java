@@ -1,11 +1,11 @@
-package com.example.demo.registration;
+package com.example.tokengate.registration;
 
-import com.example.demo.appuser.AppUser;
-import com.example.demo.appuser.AppUserRole;
-import com.example.demo.appuser.AppUserService;
-import com.example.demo.email.EmailSender;
-import com.example.demo.registration.token.ConfirmationToken;
-import com.example.demo.registration.token.ConfirmationTokenService;
+import com.example.tokengate.appuser.AppUser;
+import com.example.tokengate.appuser.AppUserRole;
+import com.example.tokengate.appuser.AppUserService;
+import com.example.tokengate.email.EmailSender;
+import com.example.tokengate.registration.token.ConfirmationToken;
+import com.example.tokengate.registration.token.ConfirmationTokenService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

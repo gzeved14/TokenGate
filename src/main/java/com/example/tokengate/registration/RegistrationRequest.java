@@ -1,4 +1,4 @@
-package com.example.demo.registration;
+package com.example.tokengate.registration;
 
 import lombok.*;
 
